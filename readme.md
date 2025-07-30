@@ -13,7 +13,7 @@ A real-time collaborative to-do list application built with Node.js, Express, Re
 - Modern React frontend with Vite
 - MongoDB for data persistence
 
-![Alt text](relative-or-absolute-path-to-image)
+![Alt text](https://github.com/shoyebmd424/Live-Collaborative-To-Do-List/blob/main/collab.png)
 
 ## 🛠 Tech Stack
 
