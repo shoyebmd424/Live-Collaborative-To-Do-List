@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+client/.env
+server/.env
+
+# Build outputs
+dist/
+client/dist/
+server/dist/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Vite
+.vite/
+client/.vite/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Optional: coverage, test output
+coverage/
+*.lcov
+
+# Optional: local database or uploads
+data/
+uploads/
