@@ -2,7 +2,7 @@
 
 A real-time collaborative to-do list application built with Node.js, Express, React, and Socket.IO for live updates across all connected users.
 
-![Demo](https://via.placeholder.com/800x400?text=Live+Collaborative+To-Do+Demo) *(Replace with actual demo GIF/screenshot)*
+
 
 ## 🌟 Features
 
